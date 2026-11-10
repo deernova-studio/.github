@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Deernova Studio</title>
+  <desc id="desc">Apps, interfaces, and tools. iOS, iPadOS, macOS, Web.</desc>
+  <rect width="1200" height="300" fill="#ffffff"/>
+  <text x="32" y="58" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4" fill="#737373">INDEPENDENT SOFTWARE STUDIO</text>
+  <text x="28" y="183" font-family="Georgia, 'Times New Roman', serif" font-size="108" letter-spacing="-5" fill="#171717">deernova.</text>
+  <text x="1168" y="144" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#737373">Apps, interfaces, and tools.</text>
+  <text x="1168" y="180" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#737373">iOS · iPadOS · macOS · Web</text>
+  <path d="M32 240H1168" stroke="#e5e5e5"/>
+  <text x="32" y="276" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#737373">DESIGN / BUILD / REFINE</text>
+  <text x="1168" y="276" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#171717">deernova.me</text>
+</svg>
